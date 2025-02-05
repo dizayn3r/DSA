@@ -1,0 +1,15 @@
+[submodule "dsa-javascript"]
+	path = dsa-javascript
+	url = https://github.com/dizayn3r/dsa-javascript.git
+[submodule "dsa-c"]
+	path = dsa-c
+	url = https://github.com/dizayn3r/dsa-c.git
+[submodule "dsa-cpp"]
+	path = dsa-cpp
+	url = https://github.com/dizayn3r/dsa-cpp.git
+[submodule "dsa-java"]
+	path = dsa-java
+	url = https://github.com/dizayn3r/dsa-java.git
+[submodule "dsa-python"]
+	path = dsa-python
+	url = https://github.com/dizayn3r/dsa-python.git
