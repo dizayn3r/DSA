@@ -13,3 +13,6 @@
 [submodule "dsa-python"]
 	path = dsa-python
 	url = https://github.com/dizayn3r/dsa-python.git
+[submodule "dsa-dart"]
+	path = dsa-dart
+	url = https://github.com/dizayn3r/dsa-dart.git
